@@ -1,8 +1,7 @@
-class hello....
-{
-hello java
-welcome to hello world
-exit working 
+class hello{
+	public static void main()
+	{
+		system.out.println("hello");
+	}
 }
-
 
